@@ -1,8 +1,62 @@
+*{
+  margin: 0;
+  padding: 0;
+}
 header {
   background-color: black;
   width: 1600px;
   height: 80px;
 }/*# sourceMappingURL=style.css.map */
-#1{
-  background: url(img\Giant_Panda.png);
+nav ul{
+  display: flex;
+}
+#section_1{
+  width: 1600px;
+  font-size: 50px;
+  background: url(img/Giant_Panda.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+ 
+}
+#ellipse{
+  padding-top: 14px;
+  padding-left: 807px;
+  padding-right: 328px;
+  padding-bottom: 223px;
+}
+#text{
+  position: absolute;
+  width: 500.31px;
+  height: 400px;
+  margin-top: 86px;
+margin-left: 870px;
+margin-bottom: 214px;
+font-size: 106.5px;
+line-height: 75%;
+text-transform: uppercase;
+color: white;
+text-align: center;
+
+}
+#section_2{
+  width: 1600px;
+  display: flex;
+  font-size: 16px;
+}
+#bamboo-cap{
+  width: 609px;
+  height: 403px;
+}
+#flower{
+  width: 295px;
+  height: 605px;
+  margin-top: 39px;
+}
+#subsection{
+  display: flex;
+  margin-left: 219px;
+  margin-top: 168px;
+}
+#text_1{
+margin-left: 93px;
 }
